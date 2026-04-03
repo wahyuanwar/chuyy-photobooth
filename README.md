@@ -1,0 +1,2 @@
+# chuyy-photobooth
+web
